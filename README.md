@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byanaufal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science with R Programming Language
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Analytics with Python Programming Language
 - 💞️ I’m looking to collaborate on basic project, bcs i'm newbie here!
 - 📫 How to reach me? you can email me on abyannaufalmuhammad@gmail.com or contact me through instagram on @byanaufal
 
